@@ -17,8 +17,6 @@ A brief intro on me:
 - 🎻 I'm especially intrigued by AI ethics and ML with human feedback. 
 - 😄 My hobbies include: acting, public speaking, screenwriting and philosophy
 - 💬 Reach me via email or shoot me a message on LinkedIn!
-
-- ⚡ Fun fact: ...
 -->
 
 
