@@ -6,8 +6,6 @@ A brief intro on me:
 
 
 
- I'm particularly interested in ML explainability and tech ethics.
-🏃 Some of my other interests: hiking, viola, music composition, international politics.
 
 
 - 🎒 I'm a senior in the Computer Science department at Princeton University and I am currently looking for a full-time software/ML job!
