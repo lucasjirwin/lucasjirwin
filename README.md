@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Lucas!
 
-A brief intro on me:
+A little bit about me:
 
 
 
