@@ -8,9 +8,9 @@ A little bit about me:
 
 
 
-- 🎒 I graduated cum laude in Computer Science at Princeton University in May 2023.
+- 🎒  I am a graduate of Princeton University with a bachelors (cum laude) in Computer Science.
 - 🔭 I've interned in software engineering, ML Ops and product roles at Twitter, Monday.com and Deloitte.
-- 🤔 I was awarded the George A. Miller prize in Cognitive Science for my thesis in intrinsically-motivated reinforcement learning. I was supervised by Professor Tom Griffiths under the Princeton Computational Cognitive Science Lab. 
+- 🤔 I was awarded the George A. Miller prize in Cognitive Science for my thesis in intrinsically-motivated reinforcement learning. My thesis was written under the supervision of Professor Tom Griffiths and the Princeton Computational Cognitive Science Lab. 
 - ⚡  I've participated in EU climate hackathons and product development at Princeton (The TigerGig project: https://github.com/ttmenezes/tiger-gig)
 - 🎻 I'm paritcularly curious about AI alignment and ML platforms. 
 - 😄 My hobbies include: acting, public speaking, screenwriting and philosophy
